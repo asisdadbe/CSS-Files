@@ -1,17 +1,17 @@
 #enroll {
-	pointer-events: none;
-	visibility: hidden;
+	pointer-events: none !important;
+	visibility: hidden !important;
 }	
  
 #loHeader {
-	pointer-events: none;
+	pointer-events: none !important;
 }
  
 #show-more {
-	pointer-events: none;
-	visibility: hidden;
+	pointer-events: none !important;
+	visibility: hidden !important;
 }
  
 .primelxp-metaData {
-	visibility: hidden;
+	visibility: hidden !important;
 }
